@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Alpha Royal Hotel - Room Reservation System
 
 The **Hotel Room Reservation System** is a web-based application developed using PHP, HTML/CSS, SQL, and JavaScript. It allows users to conveniently book, modify, or cancel room reservations at the Alpha Royal Hotel over the Internet. It also includes an admin panel to manage the hotel operations.
@@ -49,3 +50,7 @@ To access the backend administration panel, you can use the following default cr
 
 - **Admin Username:** `adminakshay@gmail.com`
 - **Password:** `1234`
+=======
+# Alpha_php
+A web-based Hotel Room Reservation System built with PHP, MySQL, HTML, CSS, and JavaScript that allows users to book, modify, and cancel hotel rooms online.
+>>>>>>> 2cf5b8735f22eba66266090c7730988e5e9ea33d
